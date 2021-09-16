@@ -6,4 +6,4 @@
 
 파일 이름 = 문제 번호
 
-Commit Message = 문제 이름
+Commit Message = 문제명
